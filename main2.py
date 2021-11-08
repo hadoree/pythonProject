@@ -1,6 +1,8 @@
 import cv2
 import sys, re
 
+## 해도리도리도리 
+
 # #입력파일지정하기
 if len(sys.argv) <= 1:
     print("no input file")
