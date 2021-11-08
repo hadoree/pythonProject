@@ -14,4 +14,4 @@ try:
 
 
 except:
-    print("오류")
+    print("오류, 해도리구른댜")
