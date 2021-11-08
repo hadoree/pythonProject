@@ -1,6 +1,6 @@
 ##얼굴인식##
 import cv2
-
+#update
 # 입력 파일 지정하기
 image_file = "mini.png"
 # 캐스케이드 파일의 경로 지정하기
