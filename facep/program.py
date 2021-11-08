@@ -15,7 +15,7 @@ try:
     cur = conn.cursor()
     cur2 = conn.cursor()
 except:
-    print("디비 연결 실패ㅎㅎfddfdddffff")
+    print("디비 연결 실패 쫄??")
 
 ui = uic.loadUiType("face.ui")[0]
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
@@ -178,3 +178,4 @@ if __name__ == "__main__":
     start = Main()
     start.show()
     app.exec_()
+
